@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "minecraft:wither_skeleton_skull",
+    "irons_artifice:mechanical_components",
+    "minecraft:gunpowder"
+  ],
+  "result": {
+    "id": "irons_arms_n_artifice_and_maid:lethal_strike_modifier",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "irons_artifice"
+    }
+  ]
+}

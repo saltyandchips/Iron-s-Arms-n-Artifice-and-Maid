@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": "minecraft:goat_horn",
+    "W": "#minecraft:wool",
+    "P": "minecraft:gunpowder"
+  },
+  "pattern": [
+    "HWH",
+    "WWW",
+    " P "
+  ],
+  "result": {
+    "id": "irons_arms_n_artifice_and_maid:tactical_goat_modifier",
+    "count": 1
+  },
+  "show_notification": true
+}

@@ -1,0 +1,22 @@
+{
+  "itemGroup.irons_arms_n_artifice_and_maid": "Touhou Little Maid & Iron's Arms 'n Artifice",
+  "modmenu.nameTranslation.irons_arms_n_artifice_and_maid": "Touhou Little Maid & Iron's Arms 'n Artifice",
+
+  "task.irons_arms_n_artifice_and_maid.iaa_gun_attack": "Iron Gun Mode",
+  "task.irons_arms_n_artifice_and_maid.iaa_gun_attack.desc": "Lets the maid use guns from Iron's Arms 'n Artifice",
+
+  "item.irons_arms_n_artifice_and_maid.calm_crosshair_modifier": "Steady Crosshair Modifier",
+  "item.irons_arms_n_artifice_and_maid.reaper_modifier": "Reaper Modifier",
+  "item.irons_arms_n_artifice_and_maid.rifling_modifier": "Rifling Modifier",
+  "item.irons_arms_n_artifice_and_maid.silver_core_modifier": "Silver Core Modifier",
+  "item.irons_arms_n_artifice_and_maid.tactical_goat_modifier": "Tactical Goat Modifier",
+  "item.irons_arms_n_artifice_and_maid.lethal_strike_modifier": "Lethal Strike Modifier",
+
+  "modifier.irons_arms_n_artifice_and_maid.tactical_goat.condition": "When hitting a raider-type enemy",
+  "modifier.irons_arms_n_artifice_and_maid.tactical_goat.drop": "Killing a raider-type enemy drops 1 extra emerald",
+  "modifier.irons_arms_n_artifice_and_maid.lethal_strike.condition": "When the bullet passes through the target's real hitbox",
+  "modifier.irons_arms_n_artifice_and_maid.silver_core.condition": "When hitting an undead mob",
+  "modifier.irons_arms_n_artifice_and_maid.silver_core.refill": "Killing an undead mob loads 1 round back into the magazine",
+  "modifier.irons_arms_n_artifice_and_maid.reaper.condition": "The last round in the magazine",
+  "modifier.irons_arms_n_artifice_and_maid.reaper.capacity_note": "Only works on guns with a magazine capacity of at least 2"
+}

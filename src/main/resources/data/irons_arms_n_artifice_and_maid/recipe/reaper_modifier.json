@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "irons_artifice:simple_mechanical_components",
+    "minecraft:iron_hoe",
+    "minecraft:iron_shears"
+  ],
+  "result": {
+    "id": "irons_arms_n_artifice_and_maid:reaper_modifier",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "irons_artifice"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "irons_arms_n_artifice_and_maid:item/silver_core_modifier"
+  }
+}

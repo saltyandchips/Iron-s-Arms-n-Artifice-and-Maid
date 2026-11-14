@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": "minecraft:golden_carrot",
+    "T": "minecraft:tripwire_hook",
+    "W": "minecraft:water_bottle",
+    "G": "minecraft:gunpowder"
+  },
+  "pattern": [
+    " C ",
+    "TWT",
+    " G "
+  ],
+  "result": {
+    "id": "irons_arms_n_artifice_and_maid:calm_crosshair_modifier",
+    "count": 1
+  },
+  "show_notification": true
+}
