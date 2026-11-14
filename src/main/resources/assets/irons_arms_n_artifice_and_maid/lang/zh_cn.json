@@ -1,0 +1,22 @@
+{
+  "itemGroup.irons_arms_n_artifice_and_maid": "车万女仆：Iron射手",
+  "modmenu.nameTranslation.irons_arms_n_artifice_and_maid": "车万女仆：Iron射手",
+
+  "task.irons_arms_n_artifice_and_maid.iaa_gun_attack": "Iron枪械模式",
+  "task.irons_arms_n_artifice_and_maid.iaa_gun_attack.desc": "让女仆使用Iron's Arms 'n Artifice的枪械",
+
+  "item.irons_arms_n_artifice_and_maid.calm_crosshair_modifier": "冷静准星改装件",
+  "item.irons_arms_n_artifice_and_maid.reaper_modifier": "收割者改装件",
+  "item.irons_arms_n_artifice_and_maid.rifling_modifier": "膛线改装件",
+  "item.irons_arms_n_artifice_and_maid.silver_core_modifier": "银制弹芯改装件",
+  "item.irons_arms_n_artifice_and_maid.tactical_goat_modifier": "战术山羊改装件",
+  "item.irons_arms_n_artifice_and_maid.lethal_strike_modifier": "致命一击改装件",
+
+  "modifier.irons_arms_n_artifice_and_maid.tactical_goat.condition": "命中灾厄类敌人时",
+  "modifier.irons_arms_n_artifice_and_maid.tactical_goat.drop": "击杀灾厄类敌人时额外掉落 1 个绿宝石",
+  "modifier.irons_arms_n_artifice_and_maid.lethal_strike.condition": "子弹穿过目标的真实碰撞箱时",
+  "modifier.irons_arms_n_artifice_and_maid.silver_core.condition": "命中亡灵生物时",
+  "modifier.irons_arms_n_artifice_and_maid.silver_core.refill": "击杀亡灵生物时向弹匣补 1 发子弹",
+  "modifier.irons_arms_n_artifice_and_maid.reaper.condition": "弹匣里的最后一发子弹",
+  "modifier.irons_arms_n_artifice_and_maid.reaper.capacity_note": "仅在弹匣容量至少为 2 的枪械上生效"
+}

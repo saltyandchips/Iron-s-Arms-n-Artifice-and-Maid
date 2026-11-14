@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    { "item": "minecraft:wither_skeleton_skull" },
+    { "item": "irons_artifice:mechanical_components" },
+    { "item": "minecraft:gunpowder" }
+  ],
+  "result": { "item": "irons_arms_n_artifice_and_maid:lethal_strike_modifier" },
+  "conditions": [ { "type": "forge:mod_loaded", "modid": "irons_artifice" } ]
+}

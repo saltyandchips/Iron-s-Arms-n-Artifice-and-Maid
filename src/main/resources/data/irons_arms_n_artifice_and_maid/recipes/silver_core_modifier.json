@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": [
+      {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": "{\"components\":{\"minecraft:potion_contents\":{\"potion\":\"minecraft:healing\"}}}"
+      },
+      {
+        "type": "forge:partial_nbt",
+        "item": "minecraft:potion",
+        "nbt": "{\"components\":{\"minecraft:potion_contents\":{\"potion\":\"minecraft:strong_healing\"}}}"
+      }
+    ],
+    "B": { "tag": "irons_artifice:ammo" },
+    "G": { "item": "minecraft:gunpowder" }
+  },
+  "pattern": [
+    " P ",
+    "PBP",
+    " G "
+  ],
+  "result": { "item": "irons_arms_n_artifice_and_maid:silver_core_modifier" },
+  "show_notification": true,
+  "conditions": [ { "type": "forge:mod_loaded", "modid": "irons_artifice" } ]
+}

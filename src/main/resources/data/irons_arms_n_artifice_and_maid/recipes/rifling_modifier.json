@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "E": { "item": "minecraft:ender_eye" },
+    "G": { "item": "minecraft:gunpowder" }
+  },
+  "pattern": [
+    " I ",
+    "IEI",
+    " G "
+  ],
+  "result": { "item": "irons_arms_n_artifice_and_maid:rifling_modifier" },
+  "show_notification": true
+}
